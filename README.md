@@ -8,6 +8,7 @@ A curated collection of resources for undergraduate and graduate-level mathemati
 
 - **[RESOURCES.md](./RESOURCES.md)**: The core list of textbooks, video lectures, and tools, categorized by academic level and subject.
 - **[MASAKI_KASHIWARA_ABEL_2025.md](./MASAKI_KASHIWARA_ABEL_2025.md)**: Resources on the 2025 Abel Prize Laureate, detailing his work on crystal bases, microlocal analysis, and famous mathematical YouTube playlists.
+- **[FOUR_COLOR_THEOREM.md](./FOUR_COLOR_THEOREM.md)**: A detailed overview of the famous Four-Color Map Problem, its history, its controversial computer-assisted proof, and relevant books and YouTube resources.
 
 ## Key Areas Covered
 
